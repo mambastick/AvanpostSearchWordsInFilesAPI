@@ -1,0 +1,6 @@
+@SearchWordsInFilesAPI_HostAddress = http://localhost:5246
+
+GET {{SearchWordsInFilesAPI_HostAddress}}/files/search
+Accept: application/json
+
+###
